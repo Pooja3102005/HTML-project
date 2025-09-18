@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title>
+        My City
+    </title>
+</head>
+
+<body bgcolor="pink">
+        <font size="7" face="ARIAL" color="blue">
+            <center>PUNE,
+                <small>MAHARASHTRA</small>
+        </font><br>
+
+        <font size="5" color=#107E68 ><b>Landmarks</b></font><br>
+        <font size="4" color=#EA0202><b>SHANIVAR WADA</b></font><br>
+        <font size="3" color=#982A43> <b>Empharence Mall</b></font><br>
+        <font size="4" color=#0A81FF> <b>Ganesh Tekadi</b></font><br>
+        <!-- <marquee behaviour="slide" > <b>Pune is Wonderful Place To Visit <br> and for Education also.</b>
+        </marquee> -->
+
+        <marquee direction="down" behavior="scroll" scrollamount="30" height="100">
+        <b>Pune is Wonderful Place To Visit<br>and for Education also.</b>
+        </marquee>
+
+        <img src="logo Sankalp Cateres.png" width="550" height="400" alt="IMAGE CANNOT BE DISPLAYED">
+    </body>
+
+</html>
